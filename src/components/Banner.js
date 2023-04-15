@@ -26,7 +26,8 @@ const Banner = () => {
             <div className={`lg:hidden p-2`}>
                 <div className='flex flex-col items-center text-center justify-center pt-14  '>
                     <div>
-                        <h3 className='font-bold pb-5 text-[#737373]'>Food app</h3>
+                        <h3 className='font-bold pb-5 text-[#737373]'>Food 
+                        app</h3>
                         <h1 className='lg:text-[58px] text-[36px] font-bold lg:leading-[80px] leading-[42px] text-[#252B42]'> Why stay hungry when <br className='hidden lg:block' />
                             you can order form Bella Onojie</h1>
                         <p className='text-[24px] font-medium py-5 leading-[38px] text-[#737373]'>Download the bella onoje’s food app now on</p>
